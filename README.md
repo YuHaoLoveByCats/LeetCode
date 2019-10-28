@@ -8,6 +8,7 @@
 
 - 语言：python3
 - jupyter notebook（本地可以安装jupyter notebook，直接将本项目文件克隆至自己文件目录下即可查看）
+- 当然也可以参照相关对应题目博客链接，在自己python环境下，测试相关知识
 ### 项目中一些题目对应的个人博客链接：
 - [3-无重复的最长子串](https://yuhaolovebycats.github.io/2019/10/28/LeetCode-3%E6%97%A0%E9%87%8D%E5%A4%8D%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2/)
 
