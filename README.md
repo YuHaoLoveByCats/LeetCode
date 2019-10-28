@@ -1,2 +1,13 @@
 # LeetCode
- using python ; jupyter  notebook; some solutions
+### 项目目的
+- 本项目主要是对LeetCode题目自己的一些解题思路、及其他大佬的见解
+- 供各位参考互相学习，内容不足，望见谅
+- 
+
+### 项目的环境：
+
+- 语言：python3
+- jupyter notebook（本地可以安装jupyter notebook，直接将本项目文件克隆至自己文件目录下即可查看）
+### 项目中一些题目对应的个人博客链接：
+- []
+
